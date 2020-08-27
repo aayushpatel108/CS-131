@@ -1,0 +1,531 @@
+---------------------------
+VARYING THREADCOUNTS FOR AcmeSafe
+---------------------------
+
+
+AcmeSafe, 1
+Total time 2.54652 s real, 2.54342 s CPU
+Average swap time 25.4652 ns real, 25.4342 ns CPU
+
+real	0m2.682s
+user	0m2.671s
+sys	0m0.055s
+
+
+
+AcmeSafe, 8
+Total time 11.4662 s real, 45.1016 s CPU
+Average swap time 917.296 ns real, 451.016 ns CPU
+
+real	0m11.587s
+user	0m45.211s
+sys	0m0.080s
+
+
+
+AcmeSafe, 16
+Total time 12.8237 s real, 49.5689 s CPU
+Average swap time 2051.79 ns real, 495.689 ns CPU
+
+real	0m12.947s
+user	0m49.679s
+sys	0m0.095s
+
+
+
+AcmeSafe, 24
+Total time 12.1055 s real, 47.2953 s CPU
+Average swap time 2905.33 ns real, 472.953 ns CPU
+
+real	0m12.230s
+user	0m47.420s
+sys	0m0.074s
+
+
+
+AcmeSafe, 32
+Total time 15.3574 s real, 59.5769 s CPU
+Average swap time 4914.36 ns real, 595.769 ns CPU
+
+real	0m15.477s
+user	0m59.527s
+sys	0m0.254s
+
+
+
+AcmeSafe, 40
+Total time 12.8528 s real, 50.6098 s CPU
+Average swap time 5141.11 ns real, 506.098 ns CPU
+
+real	0m12.978s
+user	0m50.688s
+sys	0m0.132s
+
+
+
+---------------------------
+VARYING SIZE FOR AcmeSafe
+---------------------------
+
+
+AcmeSafe, 5
+Total time 12.5526 s real, 48.0710 s CPU
+Average swap time 1004.21 ns real, 480.710 ns CPU
+
+real	0m12.689s
+user	0m48.139s
+sys	0m0.119s
+
+
+
+AcmeSafe, 25
+Total time 12.6483 s real, 48.8205 s CPU
+Average swap time 1011.86 ns real, 488.205 ns CPU
+
+real	0m12.773s
+user	0m48.923s
+sys	0m0.089s
+
+
+
+AcmeSafe, 50
+Total time 7.00845 s real, 27.3861 s CPU
+Average swap time 560.676 ns real, 273.861 ns CPU
+
+real	0m7.130s
+user	0m27.478s
+sys	0m0.097s
+
+
+
+AcmeSafe, 75
+Total time 9.21634 s real, 35.4766 s CPU
+Average swap time 737.307 ns real, 354.766 ns CPU
+
+real	0m9.342s
+user	0m35.524s
+sys	0m0.143s
+
+
+
+AcmeSafe, 100
+Total time 7.85668 s real, 30.6691 s CPU
+Average swap time 628.535 ns real, 306.691 ns CPU
+
+real	0m7.976s
+user	0m30.792s
+sys	0m0.065s
+
+
+
+AcmeSafe, 500
+Total time 3.92118 s real, 15.1791 s CPU
+Average swap time 313.694 ns real, 151.791 ns CPU
+
+real	0m4.041s
+user	0m15.298s
+sys	0m0.074s
+
+
+
+---------------------------
+VARYING THREADCOUNTS FOR Null
+---------------------------
+
+
+Null, 1
+Total time 1.14121 s real, 1.13991 s CPU
+Average swap time 11.4121 ns real, 11.3991 ns CPU
+
+real	0m1.261s
+user	0m1.256s
+sys	0m0.045s
+
+
+
+Null, 8
+Total time 0.368842 s real, 1.40888 s CPU
+Average swap time 29.5074 ns real, 14.0888 ns CPU
+
+real	0m0.487s
+user	0m1.518s
+sys	0m0.060s
+
+
+
+Null, 16
+Total time 0.487014 s real, 1.79112 s CPU
+Average swap time 77.9222 ns real, 17.9112 ns CPU
+
+real	0m0.606s
+user	0m1.917s
+sys	0m0.050s
+
+
+
+Null, 24
+Total time 0.409182 s real, 1.45986 s CPU
+Average swap time 98.2036 ns real, 14.5986 ns CPU
+
+real	0m0.530s
+user	0m1.595s
+sys	0m0.050s
+
+
+
+Null, 32
+Total time 0.495157 s real, 1.78812 s CPU
+Average swap time 158.450 ns real, 17.8812 ns CPU
+
+real	0m0.614s
+user	0m1.907s
+sys	0m0.081s
+
+
+
+Null, 40
+Total time 0.782909 s real, 2.55437 s CPU
+Average swap time 313.164 ns real, 25.5437 ns CPU
+
+real	0m0.915s
+user	0m2.706s
+sys	0m0.047s
+
+
+
+---------------------------
+VARYING SIZE FOR Null
+---------------------------
+
+
+Null, 5
+Total time 0.406131 s real, 1.36324 s CPU
+Average swap time 32.4904 ns real, 13.6324 ns CPU
+
+real	0m0.525s
+user	0m1.476s
+sys	0m0.055s
+
+
+
+Null, 25
+Total time 0.370268 s real, 1.37739 s CPU
+Average swap time 29.6215 ns real, 13.7739 ns CPU
+
+real	0m0.490s
+user	0m1.502s
+sys	0m0.055s
+
+
+
+Null, 50
+Total time 0.390137 s real, 1.45555 s CPU
+Average swap time 31.2110 ns real, 14.5555 ns CPU
+
+real	0m0.515s
+user	0m1.571s
+sys	0m0.059s
+
+
+
+Null, 75
+Total time 0.391679 s real, 1.43658 s CPU
+Average swap time 31.3343 ns real, 14.3658 ns CPU
+
+real	0m0.510s
+user	0m1.546s
+sys	0m0.057s
+
+
+
+Null, 100
+Total time 0.369908 s real, 1.42295 s CPU
+Average swap time 29.5926 ns real, 14.2295 ns CPU
+
+real	0m0.521s
+user	0m1.538s
+sys	0m0.057s
+
+
+
+Null, 500
+Total time 0.411588 s real, 1.54177 s CPU
+Average swap time 32.9270 ns real, 15.4177 ns CPU
+
+real	0m0.528s
+user	0m1.672s
+sys	0m0.044s
+
+
+
+---------------------------
+VARYING THREADCOUNTS FOR Unsynchronized
+---------------------------
+
+
+Unsynchronized, 1
+Total time 1.20911 s real, 1.20752 s CPU
+Average swap time 12.0911 ns real, 12.0752 ns CPU
+
+real	0m1.330s
+user	0m1.320s
+sys	0m0.053s
+
+
+
+Unsynchronized, 8
+Total time 3.47122 s real, 13.4800 s CPU
+Average swap time 277.698 ns real, 134.800 ns CPU
+output sum mismatch (-7629 != 0)
+
+real	0m3.600s
+user	0m13.595s
+sys	0m0.052s
+
+
+
+Unsynchronized, 16
+Total time 3.48660 s real, 13.6002 s CPU
+Average swap time 557.857 ns real, 136.002 ns CPU
+output sum mismatch (-20545 != 0)
+
+real	0m3.620s
+user	0m13.729s
+sys	0m0.050s
+
+
+
+Unsynchronized, 24
+Total time 2.16365 s real, 8.35297 s CPU
+Average swap time 519.276 ns real, 83.5297 ns CPU
+output sum mismatch (53768 != 0)
+
+real	0m2.285s
+user	0m8.482s
+sys	0m0.055s
+
+
+
+Unsynchronized, 32
+Total time 3.72343 s real, 14.5074 s CPU
+Average swap time 1191.50 ns real, 145.074 ns CPU
+output sum mismatch (-12083 != 0)
+
+real	0m3.844s
+user	0m14.620s
+sys	0m0.076s
+
+
+
+Unsynchronized, 40
+Total time 3.62109 s real, 14.1765 s CPU
+Average swap time 1448.44 ns real, 141.765 ns CPU
+output sum mismatch (-674 != 0)
+
+real	0m3.739s
+user	0m14.327s
+sys	0m0.049s
+
+
+
+---------------------------
+VARYING SIZE FOR Unsynchronized
+---------------------------
+
+
+Unsynchronized, 5
+Total time 1.81847 s real, 6.61710 s CPU
+Average swap time 145.478 ns real, 66.1710 ns CPU
+output sum mismatch (6917 != 0)
+
+real	0m1.942s
+user	0m6.735s
+sys	0m0.053s
+
+
+
+Unsynchronized, 25
+Total time 4.14322 s real, 16.2281 s CPU
+Average swap time 331.458 ns real, 162.281 ns CPU
+output sum mismatch (13130 != 0)
+
+real	0m4.273s
+user	0m16.343s
+sys	0m0.056s
+
+
+
+Unsynchronized, 50
+Total time 3.92040 s real, 15.2731 s CPU
+Average swap time 313.632 ns real, 152.731 ns CPU
+output sum mismatch (2532 != 0)
+
+real	0m4.047s
+user	0m15.379s
+sys	0m0.078s
+
+
+
+Unsynchronized, 75
+Total time 3.66437 s real, 14.0231 s CPU
+Average swap time 293.149 ns real, 140.231 ns CPU
+output sum mismatch (-27310 != 0)
+
+real	0m3.782s
+user	0m14.091s
+sys	0m0.109s
+
+
+
+Unsynchronized, 100
+Total time 3.47489 s real, 13.5966 s CPU
+Average swap time 277.991 ns real, 135.966 ns CPU
+output sum mismatch (-16233 != 0)
+
+real	0m3.604s
+user	0m13.714s
+sys	0m0.059s
+
+
+
+Unsynchronized, 500
+Total time 2.55095 s real, 9.92255 s CPU
+Average swap time 204.076 ns real, 99.2255 ns CPU
+output sum mismatch (-3269 != 0)
+
+real	0m2.682s
+user	0m10.052s
+sys	0m0.055s
+
+
+
+---------------------------
+VARYING THREADCOUNTS FOR Synchronized
+---------------------------
+
+
+Synchronized, 1
+Total time 1.64548 s real, 1.64143 s CPU
+Average swap time 16.4548 ns real, 16.4143 ns CPU
+
+real	0m1.772s
+user	0m1.766s
+sys	0m0.048s
+
+
+
+Synchronized, 8
+Total time 5.17610 s real, 6.66304 s CPU
+Average swap time 414.088 ns real, 66.6304 ns CPU
+
+real	0m5.299s
+user	0m6.564s
+sys	0m0.270s
+
+
+
+Synchronized, 16
+Total time 5.20174 s real, 6.60355 s CPU
+Average swap time 832.279 ns real, 66.0355 ns CPU
+
+real	0m5.320s
+user	0m6.602s
+sys	0m0.185s
+
+
+
+Synchronized, 24
+Total time 5.12962 s real, 6.45444 s CPU
+Average swap time 1231.11 ns real, 64.5444 ns CPU
+
+real	0m5.246s
+user	0m6.426s
+sys	0m0.206s
+
+
+
+Synchronized, 32
+Total time 5.16669 s real, 6.51386 s CPU
+Average swap time 1653.34 ns real, 65.1386 ns CPU
+
+real	0m5.289s
+user	0m6.509s
+sys	0m0.191s
+
+
+
+Synchronized, 40
+Total time 5.20775 s real, 6.68927 s CPU
+Average swap time 2083.10 ns real, 66.8927 ns CPU
+
+real	0m5.345s
+user	0m6.699s
+sys	0m0.183s
+
+
+
+---------------------------
+VARYING SIZE FOR Synchronized
+---------------------------
+
+
+Synchronized, 5
+Total time 4.90666 s real, 5.90988 s CPU
+Average swap time 392.533 ns real, 59.0988 ns CPU
+
+real	0m5.031s
+user	0m5.922s
+sys	0m0.159s
+
+
+
+Synchronized, 25
+Total time 5.06920 s real, 6.45387 s CPU
+Average swap time 405.536 ns real, 64.5387 ns CPU
+
+real	0m5.187s
+user	0m6.346s
+sys	0m0.287s
+
+
+
+Synchronized, 50
+Total time 4.86508 s real, 6.13901 s CPU
+Average swap time 389.207 ns real, 61.3901 ns CPU
+
+real	0m4.984s
+user	0m6.070s
+sys	0m0.249s
+
+
+
+Synchronized, 75
+Total time 5.08576 s real, 6.46524 s CPU
+Average swap time 406.861 ns real, 64.6524 ns CPU
+
+real	0m5.203s
+user	0m6.408s
+sys	0m0.235s
+
+
+
+Synchronized, 100
+Total time 4.68211 s real, 5.58714 s CPU
+Average swap time 374.569 ns real, 55.8714 ns CPU
+
+real	0m4.803s
+user	0m5.575s
+sys	0m0.189s
+
+
+
+Synchronized, 500
+Total time 3.89110 s real, 4.36956 s CPU
+Average swap time 311.288 ns real, 43.6956 ns CPU
+
+real	0m4.011s
+user	0m4.420s
+sys	0m0.122s
+
+
+

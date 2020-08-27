@@ -1,0 +1,56 @@
+time timeout 3600 java UnsafeMemory Synchronized 1 100000000 5
+
+    Total time 3.06901 s real, 1.66559 s CPU
+    Average swap time 30.6901 ns real, 16.6559 ns CPU
+
+    real	0m5.268s
+    user	0m1.787s
+    sys	    0m0.028s
+
+time timeout 3600 java UnsafeMemory Synchronized 8 100000000 5
+
+    Total time 4.88479 s real, 5.87107 s CPU
+    Average swap time 390.784 ns real, 58.7107 ns CPU
+
+    real	0m5.014s
+    user	0m5.907s
+    sys	    0m0.137s
+
+time timeout 3600 java UnsafeMemory Synchronized 16 100000000 5
+
+    Total time 5.18439 s real, 4.72518 s CPU
+    Average swap time 829.503 ns real, 47.2518 ns CPU
+
+    real	0m5.346s
+    user	0m4.834s
+    sys	0m0.064s
+
+time timeout 3600 java UnsafeMemory Synchronized 24 100000000 5
+
+    Total time 5.26876 s real, 6.67817 s CPU
+    Average swap time 1264.50 ns real, 66.7817 ns CPU
+
+    real	0m5.399s
+    user	0m6.650s
+    sys	0m0.208s
+
+time timeout 3600 java UnsafeMemory Synchronized 32 100000000 5
+
+    Total time 4.88405 s real, 5.92000 s CPU
+    Average swap time 1562.90 ns real, 59.2000 ns CPU
+
+    real	0m5.015s
+    user	0m5.925s
+    sys	0m0.185s
+
+time timeout 3600 java UnsafeMemory Synchronized 40 100000000 5
+
+    Total time 5.06959 s real, 6.10687 s CPU
+    Average swap time 2027.83 ns real, 61.0687 ns CPU
+
+    real	0m5.197s
+    user	0m6.113s
+    sys	    0m0.184s
+
+
+
