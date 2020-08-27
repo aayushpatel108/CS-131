@@ -1,0 +1,10 @@
+  File "./sample_submission/server.py", line 1
+SyntaxError: Non-UTF-8 code starting with '\x8b' in file ./sample_submission/server.py on line 1, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "./sample_submission/server.py", line 1
+SyntaxError: Non-UTF-8 code starting with '\x8b' in file ./sample_submission/server.py on line 1, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "./sample_submission/server.py", line 1
+SyntaxError: Non-UTF-8 code starting with '\x8b' in file ./sample_submission/server.py on line 1, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "./sample_submission/server.py", line 1
+SyntaxError: Non-UTF-8 code starting with '\x8b' in file ./sample_submission/server.py on line 1, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+  File "./sample_submission/server.py", line 1
+SyntaxError: Non-UTF-8 code starting with '\x8b' in file ./sample_submission/server.py on line 1, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details

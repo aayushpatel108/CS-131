@@ -3,7 +3,6 @@
 (define LAMBDA (string->symbol "\u03BB"))
 
 ;Followed Xinyu's Hint on Piazza for Lambda Expressions
-
 (define (expr-compare x y)
   (cond
     [(and (list? x) (list? y)) (list-compare x y)]
@@ -33,7 +32,6 @@
 (define (valid-lambda-expression? exp)
   (and (lambda? (car exp)) (not (empty? (cdr exp))) (list? (cadr exp)))
 )
-
 (define (rename-var old-name new-name exp)
   (cond
     [(equal? exp empty) empty]
@@ -114,4 +112,4 @@
 
 (define (test)
   (test-expr-compare test-expr-x test-expr-y)
-)
+ )

@@ -1,0 +1,22 @@
+The ratio between the CPU time of plain_tower to tower is 17695.5. My test case was as follows: 
+
+	tower/plain_tower(5, _,counts([2,3,2,1,4],[3,1,3,3,2],[4,1,2,5,2],[2,4,2,1,2]))
+
+Below is the output of my speedup function call:
+	
+	| ?- speedup(R).
+
+	R = 17695.5 ? 
+
+
+My ambiguous puzzle had counts ([1,2,2,3],[3,2,2,1],[1,2,2,3],[3,2,2,1])).
+
+Below is the output of my ambiguous function call:
+
+	| ?- ambiguous(4, C, T1, T2).
+
+	C = counts([1,2,2,3],[3,2,2,1],[1,2,2,3],[3,2,2,1])
+	T1 = [[4,3,1,2],[3,2,4,1],[1,4,2,3],[2,1,3,4]]
+	T2 = [[4,2,3,1],[2,1,4,3],[3,4,1,2],[1,3,2,4]] ? 
+
+I used TA Hint Code in my solution. Sections taken from the hint code are cited in the comments.

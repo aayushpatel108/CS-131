@@ -1,0 +1,2965 @@
+Received: AT Hill +0.002216815948486328 client +34.06893-118.445127 1591073739.0293925flooding message from Smith to Hill
+flooding message from Smith to Campbell
+flooding message from Smith to Singleton
+Received: AT Campbell +0.0011441707611083984 client_0 +34.06893-118.445127 1591073740.1775503Unable to open connection with Hill
+flooding message from Smith to Campbell
+flooding message from Smith to Singleton
+Smith send: AT Campbell +0.0011441707611083984 client_0 +34.06893-118.445127 1591073740.1775503
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAblpnQGHWa0tSXicJ6stdiNSfJ2Lm3Y6s4NjuNNyPnzq5v66TijD9L-C9exWJKWPDoh-PjRE9xjGlA6O2G8oR6ENLlR3SanK-YXKmAPhoIDH9v9K0nIWHtKEaSfp5trivEhBe-_no3_DQ-KnXbVbVzkZwGhT61XUhrdEHEmsJewjVJB_ZgPaopQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, California, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAIoF5JpS38pyepjphfdHOCYg3b4MV5FCTQGDbg1lU3T52CbuJAo7W85A5A6UrVNKO1pu9Uny7g2vWF6xmnksaO1xbArmYisu3lwk2gL-mfiQ8HTM2oa_JbCqgh7zz-lzHEhDpM3Ap-ffNu9iD-1az3Hh7GhTrSm3b50Lb57Bp6nF9iobu2RPc_g",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Singleton +0.0011172294616699219 client_0 +34.06893-118.445127 1591073743.1514277Unable to open connection with Hill
+Unable to open connection with Campbell
+flooding message from Smith to Singleton
+Smith send: AT Singleton +0.0011172294616699219 client_0 +34.06893-118.445127 1591073743.1514277
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA1b47XNij6WlglTcNGZIPLB6ERVUmPhM2pzWJhBxonDnCdBDjXcOsFAavwLBCmcWW3LZClpByrqSWTENpLhFL188yDNSKlkvKyFt5DNo3KmuL-4I1fyyRqSrBrknoYPqNEhCvYdyaGzUWgIYHK7fpl86bGhTQKpJ373vzRH0Z3TX-kAQblQv2Ow",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, CA, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHqyMotgeyiUjBNVg2cbmvw-6H5kQySyf7RXMzos-r80QWNTnKzb4I7r3Os50bjpXOkyY0RMfZ308U6yi-YPE5CTAe_RQTDMPJQ1jiTZVWM638bOQdbIpOLY5stzfIlhoEhDUTZNV_OMkzlUzRUhM4wwOGhTEUU_-BJNavj0K1PGUfhHyhXX35g",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Campbell +0.0013151168823242188 client_0 +34.06893-118.445127 1591073744.542663Unable to open connection with Hill
+flooding message from Smith to Campbell
+Unable to open connection with Singleton
+Smith send: AT Campbell +0.0013151168823242188 client_0 +34.06893-118.445127 1591073744.542663
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4_q651cE3KtZs1GtIotdWJDTi9LEbRLVWgY3dzF8ZEJlb30K7pbsVXH0nvrN_hWtdqgqdqvxOl_BkXyEJmZvugbtVgfJ6Y9PeoJ7pbI4dD_Nq4RWkHdq3JXUf26VUe1qEhBYYezGWN8i1viD4AF3O8tCGhRPYJLMNEUv8n57TIobGAebKboRuw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, CA, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAvz86jR9dXUBjazBEvyohbF2DWB61o9wtgb80n5iqm6xCHxAU17aPhGvXoF-Uk6LacA07iJpZFYLaZphGH4DvLsUAPlQGej3WNbqyZXzMN62glUDPRJrkmzua3__mhIsEEhBqjdzRe7XUT0x0rX2rpkATGhTqBwrQCVX9OsEFAyGlWwKWGoMB0Q",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Singleton +0.0011854171752929688 client_1 +34.06893-118.445127 1591073749.665117flooding message from Smith to Hill
+Unable to open connection with Campbell
+flooding message from Smith to Singleton
+Smith send: AT Singleton +0.0011854171752929688 client_1 +34.06893-118.445127 1591073749.665117
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUbf5z_yUBuNIqxJ5UJElHdlxH-bATOyYX_kduX9MSS0_9nxkyDodRYl771bBFbulJ71H_mqcE3mE96ASGcgPNJR7vB0Fk7wYnzsmXzafot7MUNVPuYaOGQz875hI7Z_TEhBBL8xdBxVxJIVxhvMNjxE7GhTbfgJSlJTQP_5hZ1UMjdb1oz_b1Q",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, California, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJ5nZAwzK8rWQbcY2g_KM1UruhczerrN-h2X3-Hm8BWGVTDqYAIO2KqB00z-nRQiR1UjbdS1ofNnmYPRpLGIl4vkvWNNafizC52pxxYEkz4HGUPqNQvVbnFCEGRr0Q1ylEhCZ_CRsK9zS0rOuf0_oNHQDGhTRwoqMeUE0y_QJ0UA43JUZ-U9-Rw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Campbell +0.0010361671447753906 client_1 +34.06893-118.445127 1591073751.0269744flooding message from Smith to Hill
+flooding message from Smith to Campbell
+Unable to open connection with Singleton
+Smith send: AT Campbell +0.0010361671447753906 client_1 +34.06893-118.445127 1591073751.0269744
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAXlV2i-SNmtBmdMu1CGzExu69fceFOYMmHJZxeIEVcwKi3tWa28-EuqQgUzcCX0_7c-XnWg9N01MstasVuSpeZXFgqT3iG5ezGMz6AEs6EXRLZ445CpL1-dFofGgSLkdIEhDQ2s-RRaRcGGJlfOA3cY30GhS2vBiIfn-7vi5c545dnaYNC--JZw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, CA, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAt028Op1WoBjW3dZSu9rKSgV442VItxoDEkwsjK5GAmXQIlh5xarCrvLRiMB4qCQBe6pzq1v4Qs2r8fNGDAVvNH2qYXFJ8WVLL2-ggBl_aMj22eBMNRlCDGW81ZvC9NdPEhBz4p4gO6aaTw1l1Cnf1jg1GhTgMzwIeIDCj_W-4a_YSm0Wl3KQJQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Hill +0.0011425018310546875 client_3 +34.06893-118.445127 1591073756.7501261flooding message from Smith to Hill
+Unable to open connection with Campbell
+Unable to open connection with Singleton
+Smith send: AT Hill +0.0011425018310546875 client_3 +34.06893-118.445127 1591073756.7501261
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJk_dZJag-54r18nJZjMwobSt5BCB_aSmZ4r1c9YC5b00-MTuTirmcodu7J3-HVPddzSbato6MxMW72XDueBSGs21fwTv7jiU__z-SXZAqtembPXkZ9VxM6iT4afMCFUOEhBSWl2ECiabRPlVcHexYp3xGhSvP33QNbeUzGvi4UA4voNvVnOemg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, California, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAti2fUePs4-qugUHXsyjp9oiehhiVE7pCPQZUhPTWvnVQP0Uwm0nIpbfQ_Mtf-J35Sna1ZRtHGovYTVFku4HO4KDNSCAisJqOqmLGd49PXHEnP5-bHCKSXshHGWGEUfu1EhABEWfVfrRtAvyOnqiLQ6eEGhRuHx2LxMHnUH8l8ud-1TRi1MM1kw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Hill +0.002160310745239258 client +34.06893-118.445127 1591074651.5900211flooding message from Smith to Hill
+flooding message from Smith to Campbell
+flooding message from Smith to Singleton
+Received: AT Campbell +0.0010797977447509766 client_0 +34.06893-118.445127 1591074652.74212Unable to open connection with Hill
+flooding message from Smith to Campbell
+flooding message from Smith to Singleton
+Smith send: AT Campbell +0.0010797977447509766 client_0 +34.06893-118.445127 1591074652.74212
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQLIfh2_3quRfb5ler2JUaiklSvbk05WlRC4NF3THgFgDqdXr6zPOzWq_6hNaRR1XqbjK6OiVIBC7uti0ksWzdSLDjmYgUHd6cPMRrv3ILyKO-eFN9bV7MuDXN39ionj2EhDsk808MiVaH71hS8c5H0jvGhRntOHJRbSfGIeN9HkeJzcMElH7sg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, CA, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAsvLcSP2DN6TxuyQjg_htK7EZL5kFrrNpQ5r-x-Bs5sGgtJl35kwcqdEzbztjBaE5jOvNik3Aua5NrdRb0JAGoY2HIp94Jq1zSH85pOp309ayOtBuKEzkoDB1s-gzCZi7EhD0_bOPIFOdm0yHY_k-QTJOGhRrQVBeRcUhRz3NIbypbjPfqFUmtA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Singleton +0.0012254714965820312 client_0 +34.06893-118.445127 1591074655.602398Unable to open connection with Hill
+Unable to open connection with Campbell
+flooding message from Smith to Singleton
+Smith send: AT Singleton +0.0012254714965820312 client_0 +34.06893-118.445127 1591074655.602398
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAo60pVIeHLAsjuW0ueLFcZRQpBfPXlOhgj83fqUhTLsbVRNawSJ46ElEb3Nnf8pgvdjXRSYYPu7HblG7UHyCs54fqZKgSU8pciATRKwZGnj6MQ5OKMU-Nv7nptM4UbfUJEhCPtTHynvwFDdn0EbMlMkEDGhT79vDuYSZ6JXkqa4T_zeJqYtpwYQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, CA, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHTTWhsRnhZlaNxEWzVbiUop7r9uUQVempMkj-lQi0BC_gI1Tpij3C5AO9hX8LKEp4lPjue-tvQ38WMFBn59aW9_pmilu-RuEaufDUnJdKk0TTu7F1jFtcRCk30WlvZdgEhDrtZX1RrS20wx2f2po1V9hGhSfsb73br0OYtt9FDA55LihPA4Rjg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Campbell +0.001033782958984375 client_0 +34.06893-118.445127 1591074656.9555323Unable to open connection with Hill
+flooding message from Smith to Campbell
+Unable to open connection with Singleton
+Smith send: AT Campbell +0.001033782958984375 client_0 +34.06893-118.445127 1591074656.9555323
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAArgHC0rHXUFL7PaBaFmr51xl1QGwAQ080r-y_VVTEO6jaEDAX_BWlQCB5AvvJbiLzbH9T3UrmScwQEbkzywyusP1J87egNptJEA4LjdefVlg6wBJR__zM6IXO6NVjkw7xEhBM0NcNXeuLAXnwbEoNCs89GhRKATSH4Er9w4IKw5-VM5bmuheeOg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, California, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAwL21QlBOzTKK0makVnjJVx6kz8tPIP9bINrd9E1gkEprmjUx7p7pXE0e88KEEjlGUfN3vQujLxBhU31-OIs-EuAjQUcfbPHuA84peQ_JA5_nL_WOU_hQiR8w1bQlHEUWEhCyfsv2Sx3amaJRs1ktxX5mGhS5M_eiKlreRw-cYZPGqw5_qJ1dWQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Singleton +0.0011115074157714844 client_1 +34.06893-118.445127 1591074660.2786212flooding message from Smith to Hill
+Unable to open connection with Campbell
+flooding message from Smith to Singleton
+Smith send: AT Singleton +0.0011115074157714844 client_1 +34.06893-118.445127 1591074660.2786212
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAABn_HMybqQ4uoR8Tk23ifj7wh-e-zl3GfZwDD5WXdgLK2fLx3vYNDig7T-ekIUZzhIlAR6Vg1sjBdc_h_hME21YHwQR-fri7sJtNQ1VvP_zP0K6VrAb_Y6UubS261cjR1EhBBQIrL3HyVVXgUx38oTJ6aGhSdWugDcwiGllF7KoyVPqhpBYkBlw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, California, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAUTQoLhASZY0op5xpyfD6m_0tvienN-ycJ1k7GcNNqiLTQfF-wMqqBy2m-I3YzCefs2VLVZmZMSpgX5ojyJkSMsWLfrYSz-1jxHx9hB7gFb4-V0_ocZRv_BFvB7JakcPbEhDGaHkq9kpXX8sB9M66nJi2GhSVkDCYJc1TgRxqeS7ihwEteoz14g",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Campbell +0.0011630058288574219 client_1 +34.06893-118.445127 1591074661.5596273flooding message from Smith to Hill
+flooding message from Smith to Campbell
+Unable to open connection with Singleton
+Smith send: AT Campbell +0.0011630058288574219 client_1 +34.06893-118.445127 1591074661.5596273
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA4UMqqwtZnlqyOwueevDo13nUHLOVI8GiVBGKbSpmO0uBsZofOPM3Dj-HQd3HugxOU24Oc5W7aG66OdNCZsgHkKV1sQ-8mgHePnL_tR3mvBMk6wYBCvWADFObDImB8ZxJEhAMHSbfkNG8IoIdfzSZT1FqGhTg6Kgt3LFmSb1awnBy41kW447RxQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, California, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAiWd6yITjAtQaugghq1-6k4vE_OlebdFLX7n72n5VGQEPODSnRrcd0HiHgjkJ2zYYcuzhlKGVebUt_ONnM0jUduLUZrex5Fl5z8VPwzm-zsPA54UYzd2V5oE3545Uh0ObEhCrLSLOBdAfcIOjkRr_7tuSGhT9xVMJCGa6ZXhUxjO6ysb0NdaFJQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Hill +0.0010952949523925781 client_3 +34.06893-118.445127 1591074667.359297flooding message from Smith to Hill
+Unable to open connection with Campbell
+Unable to open connection with Singleton
+Smith send: AT Hill +0.0010952949523925781 client_3 +34.06893-118.445127 1591074667.359297
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAjSxRKiBmmGI3IBVYgx93WtXJD87QoWAEF-efKIfbfYXnUne1W7kRVaIO2KlDU-5frOgcN84Gf6GUOeNa9guwrwLiSPBruYKauI_jPz-Bj-YqUGd99-JT0bthHKRZHcsvEhD7twZHep2jrf4v7WhaDBkAGhRaBAuY_EiRbTtKkRtPnUbLDEzSIQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, CA, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAGHy3EeI-9lhlaMt-ZgIgTfR-ogAmZNVoYddYzMrmZvz8UuHcJZKqlZo_ZyVUwl5npb-2cgV8NluaeFAzyNz8DgVLMYugW-66PqrfIcfoAoMfCTsmCpucU6Ckn1LRgs77EhD9um0M6KbxvYm3-yw9m0wXGhTqRqxxvi4RNjrKOk3z3A2cVn37BA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Hill +0.0021452903747558594 client +34.06893-118.445127 1591074853.2656147flooding message from Smith to Hill
+flooding message from Smith to Campbell
+flooding message from Smith to Singleton
+Received: AT Campbell +0.0011293888092041016 client_0 +34.06893-118.445127 1591074854.4039705Unable to open connection with Hill
+flooding message from Smith to Campbell
+flooding message from Smith to Singleton
+Smith send: AT Campbell +0.0011293888092041016 client_0 +34.06893-118.445127 1591074854.4039705
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAaQ4M4c-sKegBppYSfT20W447cpSo47u40L9BLTUB5pJx3pdG7jf7vesznEYXqsP8ZgoULlKe5aSsnkyltDDM00TJ63WkF3cwjRJu5yWQYmYxQ-Qgkr9LbsWpB5vF0dKyEhCpzsOtmc3hd6O57UEwcirVGhRmVeOXcnxepP4gwHh-ag1dau20-g",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, CA, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAdUHySIxP-yZa5aaAXNcrEJz3I8Fimy1moeE_3xhzW3EHcGiVlL_8XrDEmblHLajta9LLzPhuS7IiMP7_mS9iA9k-b5uGWQZZhOyX7CzqnFguNeXYpCaJ5_Wpzz-VxelYEhDIQ1p9yDOY2B1_wxAmOjwhGhRip0Pxt-EGtS8HVeuko3pkrXhgfQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Singleton +0.001249074935913086 client_0 +34.06893-118.445127 1591074857.324428Unable to open connection with Hill
+Unable to open connection with Campbell
+flooding message from Smith to Singleton
+Smith send: AT Singleton +0.001249074935913086 client_0 +34.06893-118.445127 1591074857.324428
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAKAe-ArpndkfDMZ9vfffFM8kfnDuiP4JMcyVJV51WzBDl_VaqLg7n1udIIRLCPnnrVrUItAq51nikmR89WKcZSK4zg6Ovfi5m1GIcxHr-ClKqx6QuBGVO4dixNIVm4EMyEhCBaaqOWjMUjcZDpgGFe8NUGhR9je8ExqhZk2EH1tpTnF_F05yWtw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, California, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA86Dzeiqce1Ll3bLZIcf_XhEThsfULSe-dChpGQHV3BsSJRcN9HHgENUSgdQyyQ6d6TR_y5drvOZonQyc_MmDLFzwHStUQBpGZcku0ATTeE80-sQCR1ws0kz8uuTFUSi2EhBIoMPYmg1au-N8c6CjO5eiGhQPwEuOfa6tHBpmtTZZVnxtusQofg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Campbell +0.0013003349304199219 client_0 +34.06893-118.445127 1591074858.6712253Unable to open connection with Hill
+flooding message from Smith to Campbell
+Unable to open connection with Singleton
+Smith send: AT Campbell +0.0013003349304199219 client_0 +34.06893-118.445127 1591074858.6712253
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAhLnroZuDcITUzlxL9KC7bdk0I6SHs50oQlefVmg3WGZk7jwB3n7B5rs8Fg-cwMbAhGb8fnfSfU-7tALmNDsSfr8NnTctLyCj2ZfkVfqqRf0pzJSpfmNpa5WgA2V6YVAcEhAduy-qZMBY4kWyyd7lUYsJGhR4g9Dmh8ZXJMxT0VywREhMKi5ETg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, California, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAcc3kAhXPJ-HT0dcHsXbQInnrRxxDVCfObc1u9qVfWyACRxr1j8bxr167mslk3hPLhND4S6kr9pcZWRVi_cyChs1PBWfGt3V-SUpMhnPPdpoe9VI42uY9omqS5YfiVr7uEhAsXIs-ePaq8TlxrW2Td5KgGhSlE1_bSfj2F1knJsMGStmMNoC-Hw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Singleton +0.0011470317840576172 client_1 +34.06893-118.445127 1591074861.9479847flooding message from Smith to Hill
+Unable to open connection with Campbell
+flooding message from Smith to Singleton
+Smith send: AT Singleton +0.0011470317840576172 client_1 +34.06893-118.445127 1591074861.9479847
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWfXsY8ANIm78_IgnCtlRxpcKgZYFARoL2P2pUXXEkX5L2ZIZihyA-NaONhg11eVe0dWtmeQDtO6Y2AfTZ7_rJy_Gy_aJtBj574aX1AOR3z-8tVuGEcQ4EjvAlH_IUP3DEhB4IYaZDXVg0poXVDlb8o7LGhR4ep7IKdz9b44AYoxvIigQ1MgSRA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, CA, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAOBtNHwzslnw4FG_P3RB8pef_E99A_u3DRVKn6OagLJjr8oT1d9rCfXEzTLVXlkdaXtIzH7m3rAW60XNO41eowPmhLchX0rO5u2snVwVUdkgNOa0xTZDAmKOojJVnFqgfEhBSK8ecG-zmJPybxKc1QGg7GhRgTDsGZyKpKy082JhUyFfH8F4imA",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Campbell +0.0010356903076171875 client_1 +34.06893-118.445127 1591074863.2461333flooding message from Smith to Hill
+flooding message from Smith to Campbell
+Unable to open connection with Singleton
+Smith send: AT Campbell +0.0010356903076171875 client_1 +34.06893-118.445127 1591074863.2461333
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAta3F4WXNYWnyAIrQcnDOmFhm0tQGlxOx3jDOt2wh12AmqBeBlBUISRsxSIFH7lTC4Qyn5ZB5WSXtjjjanXjTNncuzfHmvnfx4S_vOCyz_8BzE8t5buhPtpcNmphJKArmEhDlWABmuDpkC5ZlQKqWnGnlGhRvXsAfg5AhcoDG9zHKQ6CIQbPRLw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, CA, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAZxIdfa4NfKfRYql1wbdww8fOQqBiZ6L3lr6h3q-zjNsAkzA71x3KNt0J0_I2xYZOsfNhl2U-gbdc15olQM9WEtAwlkpN2clMRe-GlmG5ZWVjAgPgcNI8MHlqdopKpyr5EhCKPS3IiRAdcE_XlcrnhqUGGhSFU9phH_erHdQmBmeFwU6aI_MfWg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Hill +0.0011396408081054688 client_3 +34.06893-118.445127 1591074868.8076735flooding message from Smith to Hill
+Unable to open connection with Campbell
+Unable to open connection with Singleton
+Smith send: AT Hill +0.0011396408081054688 client_3 +34.06893-118.445127 1591074868.8076735
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAY-MfwDShX6DMSllRGbYFY0DQ5DEKhsUMaT0JIoIZpC9WivFcXJWMkGuw3NgU1vuLe7_CVwCNtD9-FrwopIo9_J9zV5E2rbx2V-Wn_7G-3CLldMNCzI_ybF7kMHWAEz5GEhBcsrTC813lfXZGGhS4RGN1GhTZSnf9qvoBfLq2la16u8z36dhTDQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, California, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1699,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100507188793798939266\">Giovane Garaffa</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAnPExFn6N2wmhfPJhlh1bNOxUut2nYluUmI-y6cQRsH55cZwRb9d6wKa57wVJYwslaBtsKzyWZH6ZTujnDsi865e5vDNWU8m-ac85mEafIhMtfBdM1Aqyi4TSGj2sRsVTEhDKOCiNVILMVKAEyufUi7YVGhTes4tlYieeT3gkldf-ic-C1g5tDw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Hill +0.0021445751190185547 client +34.06893-118.445127 1591400123.7757263flooding message from Smith to Hill
+flooding message from Smith to Campbell
+flooding message from Smith to Singleton
+Received: AT Campbell +0.001035928726196289 client_0 +34.06893-118.445127 1591400125.0766294Unable to open connection with Hill
+flooding message from Smith to Campbell
+flooding message from Smith to Singleton
+Smith send: AT Campbell +0.001035928726196289 client_0 +34.06893-118.445127 1591400125.0766294
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQo-v9B9gDRlGZx1ldOez39zpTL8sWbomGhrTOmlKHyidIsU-QBWKtPqvrwyMxLPthcdRCk3JMdpnwrXtZFxD_L6USTNXCyWC5wjJ7wGqdmfSq-JGCg9h7b56ZdNZDj4vEhBu9Nn3LdrCnIh07OkQDSM5GhR9e-j0e2FJrBp20cm81PXP0Z00cA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, CA, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1701,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100562861255500210060\">Anne</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAbUBCIm2gwzJbcCh1zdQVmoVShdje_XqnGFelIJ9w86h6hyEL09tfateC84cI6o96G5-k2dr6vWudqvBUI_A_BIZSnV_pkSzxnr36KU5DP0n0uu3_KoXxIVR-jPpWXqmsEhBfUe8hJOA_xm2UOjFx6hImGhS7B_OBOhyjZ6eBFHueFacqcYo-yw",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Singleton +0.0011572837829589844 client_0 +34.06893-118.445127 1591400128.0693407Unable to open connection with Hill
+Unable to open connection with Campbell
+flooding message from Smith to Singleton
+Smith send: AT Singleton +0.0011572837829589844 client_0 +34.06893-118.445127 1591400128.0693407
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAAuSlSdTa6HNIalkyK_afohVcWxNSKZG6tcN8eOQ_7vG7iQW2MNaHtMiPujXZD9L1c8w3iEVezWwG3PSJdmnpZrpfNUZpF9BU9ZbDGPgc7HFSFVKtsLyhSKQloxkuRQ3-EhDHpAFBOrHk9otBzCDg14rQGhRCUWPIwe6dRsPRJco05isZzsqKhQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, CA, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1701,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100562861255500210060\">Anne</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA0A9eEaG4qV88OSUCXti4uzLWMaqGUe2UvAJoKY_CU_H7xPbwzUwgYn2NMgIYi8tPtJOcJsbzTeRxPRr92e2nu6gtkrlojaRQ31rzaGVh3Yv-M7P2Rsd9UFJscuw1CX93EhC4mEq_13E50S02p0J5Wlu5GhTVhU6YPfh63CYOadjrnKe-Yb3zMw",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Campbell +0.001416921615600586 client_0 +34.06893-118.445127 1591400129.4565034Unable to open connection with Hill
+flooding message from Smith to Campbell
+Unable to open connection with Singleton
+Smith send: AT Campbell +0.001416921615600586 client_0 +34.06893-118.445127 1591400129.4565034
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAThDf-7CdcBwkH6dXIl_R4BOzhBAXMQ65taMcYWUGUD9oSuzzEXXvBwnsjr8wasTF-tFFYInc4OgoSnqNmcQpvVrp_vNCa3QhxeRD7IOszgif5ezKQvkDZSNYkVrWN2cZEhB92XOS70wvLvJdIKVKCWUSGhRJ1LG-Q3JsNyU1KmE8UwJCkSeXAA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, CA, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1701,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100562861255500210060\">Anne</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAQHe9y9mXaolnENXiTi_7qQHlKi69hC_ufdjEzbhJG_CUmplLz_PAiO1rrMwlSKTJIcuV5GK9ZYcQfqP3AeHGrLucf9vKgElICqMwFBDxmbcXnkOshyy8RdSKs3mpf6lKEhC_ntepreqqqPD405E-nq-kGhQlMuL09AtCwgHJ-kdkH2BCUuor8w",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Singleton +0.0011301040649414062 client_1 +34.06893-118.445127 1591400132.8728256flooding message from Smith to Hill
+Unable to open connection with Campbell
+flooding message from Smith to Singleton
+Smith send: AT Singleton +0.0011301040649414062 client_1 +34.06893-118.445127 1591400132.8728256
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAGxxj5iyYsHDj8McNCCS9AgXeg_BCobRACEsCmdYHe3qOKE-OIYPh5bCQFBsci93HWD0OnZgGVZm6fMiHYEe5F0iq-OdJHHnDYxxgHM2aD3iciah14PlAh5WipjGMhHySEhCqwEdcbznrx3i9CNLcoTv2GhRFgU5HOLPGpVw5OAF_tVD26pDvfw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, CA, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1701,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100562861255500210060\">Anne</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJBv8khZDDiSzr6QJdPHm7tIowbTpT5bIJJMIgmxeSgYNs-j4ACtgabL7fU9yXeln90S93aIyjBHgT7oTKaHdPspTIE0ilp5aXrkZZMYqJ06r7OxTmJ45J_NkQJRWpfMBEhAaDk576xVPB1wmuaBMeCAxGhTfJMrGxHnn5uOjq-aBwh1twEdAJw",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Campbell +0.0010809898376464844 client_1 +34.06893-118.445127 1591400134.25403flooding message from Smith to Hill
+flooding message from Smith to Campbell
+Unable to open connection with Singleton
+Smith send: AT Campbell +0.0010809898376464844 client_1 +34.06893-118.445127 1591400134.25403
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAw1wo0f8mZMFXMdzsu35H-XXjETf_ig-BWZwMGYzEpAhNIBaaNw7GqHJFNlLPkus4ONkqmnG87B22cBJ9Flhhsl6RxQ1RH-1ml-_Kkd7ctazmZvMZhbJ9-vukaArAPFhDEhAjsHoWMZ3JZuTb0iBub3tzGhRIwpCwE0I60zdpb7dDdnkrNm4AGQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, CA, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1701,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100562861255500210060\">Anne</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAr9by-uUhWHRX8Ica4k7jrjhADlpZ_PExDRp_sbKAa2briIxRsEbUfZ2PN-d12C6Vl2aF0EvDzhas1QSoV1h2oMBdTl1NkNd2oporwc3D9La6u14_GHjr_YXhqC8MPyoTEhBoKqhOPkBVL2IONTd2ObQwGhTNqJw-frHyUOheFfFX28w0vlq1aQ",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}Received: AT Hill +0.0011870861053466797 client_3 +34.06893-118.445127 1591400140.086216flooding message from Smith to Hill
+Unable to open connection with Campbell
+Unable to open connection with Singleton
+Smith send: AT Hill +0.0011870861053466797 client_3 +34.06893-118.445127 1591400140.086216
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0688873,
+                    "lng": -118.4450169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0702312302915,
+                        "lng": -118.4436835197085
+                    },
+                    "southwest": {
+                        "lat": 34.0675332697085,
+                        "lng": -118.4463814802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "ef162ea4f60a0b3933fae75544dba377b996befa",
+            "name": "Westwood Plaza",
+            "place_id": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "reference": "ChIJ6Re7qYi8woAR22jVhVAye2M",
+            "scope": "GOOGLE",
+            "types": [
+                "route"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+            "id": "4d56f16ad3d8976d49143fa4fdfffbc0a7ce8e39",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">G L</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAATNbXhoaFiRuvkXLklYxdFz4-tckEVmniBeVZsvj2Dzl-bumbJoCqhKVlz4teYM3BSNerxa0mo8MhX9SLP6sT3r4vV7UPRLWKaoDTteEGpyIOW1gMavtpaRU2mpa3OoUEhCkNRdGKNCtbcTGYXcRod_aGhQ_QuT1UTob1EnvM40VnIOr1SfG7Q",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, CA, United States",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1701,
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100562861255500210060\">Anne</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYBIhHop19J1V_NOwjVFofvWbManj92c9UyN0Wo_X3Veabs-S7YCnwgeguWzeSIgwRM_5PLAy2A2uOxbaQX8DQBuAR3pBhbFW3u4HUTqib8D-iWEsalzvtpytSz8eBhCpEhAZcVcq1Lu5STxMH0g1RNiuGhRrFSRaESR3vC1MGl6RUb33i1KhMA",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}

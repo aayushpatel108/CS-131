@@ -7,7 +7,7 @@ public class AcmeSafeState implements State {
     public int size() { return value.length(); }
 
     public long[] current() {
-        current_value = new long[value.length()];
+        long[] current_value = new long[value.length()];
         for (int i = 0; i < value.length(); i++) {
             current_value[i] = (long)value.get(i);
         }
